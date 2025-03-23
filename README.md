@@ -69,17 +69,19 @@ Installation & Setup
 
     Run the script and enter your mobile’s IP address when prompted:
 
-    python human_detection.py
+           python human_detection.py
 
-Replace your MQTT URL inside human_detection.py:
+    Replace your MQTT URL inside human_detection.py:
 
-    MQTT_BROKER = "your_mqtt_broker_url"
-
+           MQTT_BROKER = "your_mqtt_broker_url"
+   
 3. Set Up the Frontend (React + TypeScript + vite)
 
     Install : 
-    cd frontend  
-    npm install  
+                 cd frontend  
+                 npm install  
+
+    and Replace your MQTT URL inside service/mqtt.ts
 
     Add MQTT functionality to React to display real-time detection status.
    
