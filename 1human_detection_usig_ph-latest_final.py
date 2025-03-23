@@ -33,7 +33,7 @@ ip_address = input("Enter the IP address of the phone camera (e.g., 192.168.64.5
 phone_camera_url = f"http://{ip_address}:8080/video"
 
 # MQTT details
-MQTT_BROKER = "f91c4f99c5514ed2829cdd05c5d4aac8.s1.eu.hivemq.cloud"
+MQTT_BROKER = "Replace your Mqtt URL"
 MQTT_PORT = 8883
 MQTT_TOPIC = "bedroom_1"
 MQTT_USERNAME = "qwerty"

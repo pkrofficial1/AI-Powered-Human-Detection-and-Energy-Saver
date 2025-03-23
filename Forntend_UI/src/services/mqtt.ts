@@ -3,7 +3,7 @@ import mqtt from 'mqtt';
 const MQTT_STORAGE_KEY = 'mqtt_config';
 
 const getDefaultConfig = () => ({
-  broker: 'f91c4f99c5514ed2829cdd05c5d4aac8.s1.eu.hivemq.cloud',
+  broker: 'Replace your Mqtt URL ',
   port: 8884,
   username: 'qwerty',
   password: 'Test@1234',
