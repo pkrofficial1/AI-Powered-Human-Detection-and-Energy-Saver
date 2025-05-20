@@ -1,4 +1,4 @@
-# AI-Powered-Human-Detection-and-Energy-Saver ⚡🔌..🔥🔥
+# AI-Powered-Human-Detection-and-Energy-Saver ⚡🔌
 
 https://youtu.be/Aj5DD1BrBq0 - Watch full video   https://youtu.be/weqDfEy8gBU
 
